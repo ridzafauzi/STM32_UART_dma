@@ -14,8 +14,9 @@ List of hardwares used :-<br />
 
 ![My Image](images/testbed.jpg)
 
-![My Image](images/sscom_Dma.png)
+![My Image](images/sscom_Dma.png)<br />
 
+Details on DMA's Idle Interrupt <br />
 ![My Image](images/dma_idle_interrupt.png)
 
 Reference : <br />
