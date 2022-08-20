@@ -12,7 +12,11 @@ List of hardwares used :-<br />
 4. ST-Link V2 programmer
 5. CH340 USB to Serial-<br />
 
+![My Image](images/testbed.jpg)
 
+![My Image](images/sscom_dma.png)
+
+![My Image](images/dma_idle_interrupt.png)
 
 Reference : <br />
 1. https://blog.csdn.net/as480133937/article/details/104827639?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-9.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-<br />
